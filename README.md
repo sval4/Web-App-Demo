@@ -8,7 +8,7 @@ This project showcases a web application designed to provide copay eligibility i
 - **User Timeout:** Implemented a user timeout mechanism for enhanced security.
 - **User Dashboard:**
   - Added functionality to add drugs to the user dashboard.
-  - Implemented a feature to remove drugs from the dashboard.
+  - Added functionality to remove drugs from the dashboard.
   - Enabled drag-and-drop functionality for drug tiles.
 - **Edit Profile Section:** Developed an intuitive section for users to modify their profile information.
 - **Login/Sign Up:** Created a user-friendly authentication system for seamless login and registration.
@@ -23,5 +23,5 @@ This project was accomplished through the utilization of cutting-edge technologi
 - **Node.js:** Utilized Node.js for backend development to handle data and business logic.
 - **AWS Lambda:** Employed AWS Lambda functions for serverless computing capabilities.
 - **Amazon Cognito:** Ensured secure authentication and user management with Amazon Cognito.
-- **API Gateway:** Utilized Amazon API Gateway to manage and secure API endpoints.
+- **API Gateway:** Utilized Amazon API Gateway to retrieve copay elgibility info, user info, drug info.
 - **DynamoDB:** Employed DynamoDB for seamless storage and retrieval of user and drug information.
